@@ -10,7 +10,7 @@ let placar = 0
 renderizarCartas()
 
 buttonEncerrar.addEventListener('click', () => {
-  location.assign('https://josiannefreitas.github.io/maratonakenzie-mariomemory/')
+  location.assign('../index.html')
 })
 
 // buttonIniciar.addEventListener('click', () => {
