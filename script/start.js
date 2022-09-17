@@ -1,5 +1,5 @@
 const buttonIniciar = document.getElementById('iniciar')
 
 buttonIniciar.addEventListener('click', () => {
-  location.assign('../jogo.html')
+  location.assign('https://josiannefreitas.github.io/maratonakenzie-mariomemory/jogo.html')
 })
