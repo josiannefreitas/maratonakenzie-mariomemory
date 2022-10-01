@@ -18,7 +18,7 @@ const personagens = [
     id: '3',
     name: 'catnip',
     img: './img/Piranha.png'
-  },
+  // },
   // {
   //   id: '4',
   //   name: 'bowser',
@@ -78,5 +78,5 @@ const personagens = [
   //   id: '15',
   //   name: 'yoshi',
   //   img: './img/Yoshi.png'
-  // }
+  }
 ]
