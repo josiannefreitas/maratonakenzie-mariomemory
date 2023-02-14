@@ -57,7 +57,7 @@ function testPar() {
     click01 = null
     click02 = null
 
-    if (encontrados == arr.length) {
+    if (encontrados == personagens.length) {
       // setTimeout(() => {
       //   alert('Parabéns!')
       // }, 500)
